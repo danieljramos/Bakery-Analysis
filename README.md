@@ -8,6 +8,11 @@ Once we understand the situation and what is causing the loss of customers. I ca
 
 ![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/Quantity_customer_developmen.png?raw=true)
 
+The trend in 2022 is positive, as the bakery slowly regains customers after reaching a minimum in January. The number of customers decreases after the summer of 2021.
+Due to holidays, there is a clear seasonality in the number of customers.
+The fluctuations come from changing prices and possible investments in marketing and economic conditions.
+
+# Customer Behaviour Development
 
 
 
