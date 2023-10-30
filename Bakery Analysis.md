@@ -26,7 +26,7 @@ The best days for selling bread are the weekends. This customer behaviour change
 
 # Top 5 Products by Amount of Clients
 
-![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/chart%20(8).png?raw=true)
+![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/chart%20(36).png?raw=true)
 
 The traditional baguette is the best-selling product, followed by the coupe.
 Coupe has not increased the price but it has also decreased the number of customers. This is because, in this type of business, some items are related.
