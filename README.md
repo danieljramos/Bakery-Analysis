@@ -6,3 +6,6 @@ Once we understand the situation and what is causing the loss of customers. I ca
 
 # Quantity & Customer Development
 ![alt text](http://Users/familiaramoslopez/Documents/Analisis/Imagenes/quantity_customer_development.png)
+![alt text](https://github.com/[danieljramos]/[Bakery-Analysis]/blob/[branch]/image.jpg?raw=true)
+
+
