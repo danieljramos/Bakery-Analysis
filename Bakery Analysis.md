@@ -14,5 +14,38 @@ The fluctuations come from changing prices and possible investments in marketing
 
 # Customer Behaviour Development
 
+![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/chart%20(13).png?raw=true)
 
+The loss of customers is a combination of various factors such as price increases and economic conditions. Price changes have a moderate effect on the number of customers. However, significant changes in prices have an impact on customers. In January, there was a huge increase in prices, which led to the loss of customers. After correcting the prices, it is difficult to win back the customers. Huge increases in prices have made to lose around 300 customers. Around 10 customers per day.
 
+# Customer Development by Day of the Week
+
+![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/chart%20(8).png?raw=true)
+
+The best days for selling bread are the weekends. This customer behaviour changes during the summer. As we have already mentioned, summers are not taken into account when taking action and drawing conclusions.
+
+# Top 5 Products by Amount of Clients
+
+![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/chart%20(8).png?raw=true)
+
+The traditional baguette is the best-selling product, followed by the coupe.
+Coupe has not increased the price but it has also decreased the number of customers. This is because, in this type of business, some items are related.
+Increases in other products would affect the overall performance. The bakery has a portfolio of 80 products, but 78% of the total sales come from the top 5 products. Continuing to sell the top 5 and getting rid of the others will reduce the cost of skipping the leftovers.
+
+# Conclusions
+
+- Huge price changes will affect the number of users.
+- Huge portfolios will lead to high costs and large amounts of leftovers.
+- Weekends are the best days.
+- The top 5 products account for 78% of sales.
+- Maintaining prices for some products does not guarantee customers as some products are closely related.
+- Loss of customers is difficult to recover. Once customers switch to alternatives or change their buying habits, winning them back requires targeted efforts such as promotions, loyalty programmes or improved value propositions.
+
+# Recommendations
+
+- Track costs to understand profitability.
+- Create a proper pricing strategy to manage profitability and customers.
+- Get rid of some items to reduce the portfolio and focus more on top-performing items.
+- Promotions.
+- Customer feedback.
+- Market research. Understand the competitors, prices and strategy.
