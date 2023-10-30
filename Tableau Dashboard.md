@@ -2,7 +2,7 @@
 
 Audience: Bakery Owner
 
-![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/Dashboard%20(1).png?raw=true)
+![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/Dashboard%20(2).png?raw=true)
 
 Goal: Understand the drops in customers and sales.
 
